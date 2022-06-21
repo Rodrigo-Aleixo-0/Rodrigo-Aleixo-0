@@ -9,6 +9,8 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Aleixo-0&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  <h2>Linguagens e Ferramentas:</h2>
+  
 <div style="display: inline_block"><br>
    <img align="center" alt="Rodrigo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
    <img align="center" alt="Rodrigo-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
