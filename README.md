@@ -6,6 +6,8 @@
   <h2>Linguagens e Ferramentas:</h2>
   
 <div style="display: inline_block"><br>
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />        
    <img align="center" alt="Rodrigo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
    <img align="center" alt="Rodrigo-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
    <img align="center" alt="Rodrigo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
