@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Rodrigo!
 - 👀 Me interesso bastante por desenvolvimendto back-end
-- 🌱 Estudando C# e .NET Core
+- 🌱 Estudando C# e ASP.NET Core
 - 📫 Pode entrar em contato comigo através do meu email: rodrigo1aleixo@gmail.com
   
   <h2>Linguagens e Ferramentas:</h2>
