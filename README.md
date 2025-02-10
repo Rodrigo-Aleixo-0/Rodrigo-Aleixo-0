@@ -5,8 +5,8 @@
   
   <h2>Linguagens e Ferramentas:</h2>
   
-<div style="display: inline_block"><br>
-
-   [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
-  
-</div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+    </a>
+  </p>
