@@ -5,7 +5,7 @@
   
   <h2>Linguagens e Ferramentas:</h2>
   
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
     </a>
