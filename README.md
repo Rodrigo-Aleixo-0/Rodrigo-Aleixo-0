@@ -7,6 +7,6 @@
   
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql" />
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
     </a>
   </p>
